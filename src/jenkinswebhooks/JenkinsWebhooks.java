@@ -15,7 +15,7 @@ public class JenkinsWebhooks {
      * @param args the command line arguments
      */
     public static void main(String[] args) {
-        System.out.println("Bonjour "+args[1]+", " +args[0]);
+        System.out.println("Bonjour "+args[0]+", " +args[0]);
     }
     
 }
